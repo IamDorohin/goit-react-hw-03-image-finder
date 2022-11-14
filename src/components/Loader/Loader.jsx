@@ -6,8 +6,8 @@ export const Loader = () => {
     <LoaderContainer>
       <ThreeDots
         visible={true}
-        height="80"
-        width="80"
+        height="150"
+        width="150"
         ariaLabel="blocks-loading"
         wrapperStyle={{}}
         wrapperClass="blocks-wrapper"
